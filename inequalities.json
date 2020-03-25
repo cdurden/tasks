@@ -1,0 +1,23 @@
+{
+  "q1": {"class":"Question.SolutionQuestion","statement": "x+3>70"},
+  "q2": {"class": "Question.SolutionQuestion","statement": "x+3<70"},
+  "q3": {"class": "Question.SolutionQuestion","statement": "5x<2"},
+  "q4": {"class": "Question.SolutionQuestion","statement": "-5x<2"},
+  "q5": {"class": "Question.NonSolutionQuestion","statement": "x+3>70"},
+  "q6": {"class": "Question.NonSolutionQuestion","statement": "x+3<70"},
+  "q7": {"class": "Question.NonSolutionQuestion","statement": "5x<2"},
+  "q8": {"class": "Question.NonSolutionQuestion","statement": "-5x<2"},
+  "q9": {"class": "Question.SolutionQuestion","statement": "-3x>18"},
+  "q10": {"class": "Question.OpenEndedQuestion","Question": "How are the solutions to the inequality $-3x \\ge 18$ different from the solutions to $-3x>18$? Explain your reasoning."},
+  "q11": {"class": "Question.AsyGraphicsDrawingQuestion","template": "NumberLine.asy", "min":"-8", "max":"8", "Question": "Where are $-5$ and $2$ relative to each other?"},
+  "q12": {"class": "Question.DotGraphicsQuestion","template": "ch5.dot"},
+  "q13": {"class": "Question.MultiPartQuestion","parts": [{"class":"Question.SolutionQuestion", "params": {"statement": "x+3>70"}}, {"class":"Question.SolutionQuestion", "params": {"statement": "x+3<70"}}, {"class":"Question.SolutionQuestion", "params": {"statement": "5x<2"}}, {"class":"Question.SolutionQuestion", "params": {"statement": "-5x<2"}}]},
+  "q14": {"class": "Question.AsyGraphicsQuestion","template": "NumberLine.asy", "min":"-3", "max":"8", "Question": ""},
+  "q15": {"class": "Question.AsyGraphicsQuestion","template": "NumberLine.asy", "min":"-3", "max":"20", "Question": ""},
+  "q16": {"class": "Question.AsyGraphicsQuestion","template": "NumberLine.asy", "min":"-3", "max":"10", "Question": ""},
+  "q17": {"class": "Question.DrawingQuestion","background_image_url": "/static/images/NumberLineNoLabels.png","Question": "Graph the solutions to the inequality $-x \\geq -4$ on the number line:"},
+  "q18": {"class": "Question.CompleteTableQuestion","csv": "a,b,c\n1,[2],3\n4,[5],6\n","Question": "Complete the table","transpose_display": "True"},
+  "q19": {"class": "Question.CompleteTableDraggableQuestion","csv": "$x$,$-x$,True or false: $-x \\geq -4$\n3,[-3],[True]\n-3,[3],[True]\n4,[-4],[True]\n-4,[4],[True]\n4.001,[-4.001],[False]\n-4.001,[4.001],[True]\n","Question": "Complete the table","transpose_display": "True","blocks":[3,4,-3,-4,4.001,-4.001,"True","False"]},
+  "q20": {"class": "Question.CompleteTableQuestion","csv": "$x$,$x-3$\n-4,-7\n-3,[-6]\n-2,-5\n-1,[-4]\n0,[-3]\n1,[-2]\n2,-1\n3,[0]\n4,1","Question": "Complete the table","transpose_display": "True"},
+  "q21": {"class": "Question.CompleteTableQuestion","csv": "$x$,$2x$\n-4,[-8]\n-3,[-6]\n-2,[-4]\n-1,[-2]\n0,[0]\n1,[2]\n2,[4]\n3,[6]\n4,[8]","Question": "Complete the table","transpose_display": "True"}
+}
