@@ -23,6 +23,6 @@
   "q22": {"class": "Question.OpenEndedQuestion","Question": "For which values of $x$ is it true that $x - 3 = \text-2$?"},
   "q23": {"class": "Question.OpenEndedQuestion","Question": "For which values of $x$ is it true that $x - 3 > \text-2$?"},
   "q24": {"class": "Question.DrawingQuestion","background_image_url": "/static/images/NumberLineNoLabels.png","Question": "Graph the solutions to the inequality $x -3 > -2$ on the number line:"},
-  "q25": {"class": "Question.OpenEndedQuestion","Question": "Predict which values of $x$ will make the inequality $2x < 6$ true. Write one sentence with or without mathematical symbols."}
+  "q25": {"class": "Question.OpenEndedQuestion","Question": "Predict which values of $x$ will make the inequality $2x < 6$ true. Write one sentence with or without mathematical symbols."},
   "q26": {"class": "Question.DrawingQuestion","background_image_url": "/static/images/NumberLineNoLabels.png","Question": "Graph the solutions to the inequality $ 2x < 6$ on the number line:"}
 }
