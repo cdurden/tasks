@@ -19,5 +19,10 @@
   "q18": {"class": "Question.CompleteTableQuestion","csv": "a,b,c\n1,[2],3\n4,[5],6\n","Question": "Complete the table","transpose_display": "True"},
   "q19": {"class": "Question.CompleteTableDraggableQuestion","csv": "$x$,$-x$,True or false: $-x \\geq -4$\n3,[-3],[True]\n-3,[3],[True]\n4,[-4],[True]\n-4,[4],[True]\n4.001,[-4.001],[False]\n-4.001,[4.001],[True]\n","Question": "Complete the table","transpose_display": "True","blocks":[3,4,-3,-4,4.001,-4.001,"True","False"]},
   "q20": {"class": "Question.CompleteTableQuestion","csv": "$x$,$x-3$\n-4,-7\n-3,[-6]\n-2,-5\n-1,[-4]\n0,[-3]\n1,[-2]\n2,-1\n3,[0]\n4,1","Question": "Complete the table","transpose_display": "True"},
-  "q21": {"class": "Question.CompleteTableQuestion","csv": "$x$,$2x$\n-4,[-8]\n-3,[-6]\n-2,[-4]\n-1,[-2]\n0,[0]\n1,[2]\n2,[4]\n3,[6]\n4,[8]","Question": "Complete the table","transpose_display": "True"}
+  "q21": {"class": "Question.CompleteTableQuestion","csv": "$x$,$2x$\n-4,[-8]\n-3,[-6]\n-2,[-4]\n-1,[-2]\n0,[0]\n1,[2]\n2,[4]\n3,[6]\n4,[8]","Question": "Complete the table","transpose_display": "True"},
+  "q22": {"class": "Question.OpenEndedQuestion","Question": "For which values of $x$ is it true that $x - 3 = \text-2$?"},
+  "q23": {"class": "Question.OpenEndedQuestion","Question": "For which values of $x$ is it true that $x - 3 > \text-2$?"},
+  "q24": {"class": "Question.DrawingQuestion","background_image_url": "/static/images/NumberLineNoLabels.png","Question": "Graph the solutions to the inequality $x -3 > -2$ on the number line:"},
+  "q25": {"class": "Question.OpenEndedQuestion","Question": "Predict which values of $x$ will make the inequality $2x < 6$ true. Write one sentence with or without mathematical symbols."}
+  "q26": {"class": "Question.DrawingQuestion","background_image_url": "/static/images/NumberLineNoLabels.png","Question": "Graph the solutions to the inequality $ 2x < 6$ on the number line:"}
 }
