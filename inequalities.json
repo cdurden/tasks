@@ -24,5 +24,18 @@
   "q23": {"class": "Question.OpenEndedQuestion","Question": "For which values of $x$ is it true that $x - 3 > \text-2$?"},
   "q24": {"class": "Question.DrawingQuestion","background_image_url": "/static/images/NumberLineNoLabels.png","Question": "Graph the solutions to the inequality $x -3 > -2$ on the number line:"},
   "q25": {"class": "Question.OpenEndedQuestion","Question": "Predict which values of $x$ will make the inequality $2x < 6$ true. Write one sentence with or without mathematical symbols."},
-  "q26": {"class": "Question.DrawingQuestion","background_image_url": "/static/images/NumberLineNoLabels.png","Question": "Graph the solutions to the inequality $ 2x < 6$ on the number line:"}
+  "q26": {"class": "Question.DrawingQuestion","background_image_url": "/static/images/NumberLineNoLabels.png","Question": "Graph the solutions to the inequality $ 2x < 6$ on the number line:"},
+  "q27": {"class": "Question.MultipleChoiceQuestion","Question": "8 students?","context":"Which orchard would be cheaper to visit if the class has:", "choices": ["A","B"], "answer":1},
+  "q28": {"class": "Question.MultipleChoiceQuestion","Question": "12 students?","context":"Which orchard would be cheaper to visit if the class has:", "choices": ["A","B"], "answer":1},
+  "q29": {"class": "Question.MultipleChoiceQuestion","Question": "30 students?","context":"Which orchard would be cheaper to visit if the class has:", "choices": ["A","B"], "answer":0},
+  "q30": {"class": "Question.MultiPartQuestion","context":"Which orchard would be cheaper to visit if the class has:","parts": [
+    {"class": "Question.MultipleChoiceQuestion","Question": "8 students?", "choices": ["A","B"], "answer":1},
+    {"class": "Question.MultipleChoiceQuestion","Question": "12 students?", "choices": ["A","B"], "answer":1},
+    {"class": "Question.MultipleChoiceQuestion","Question": "30 students?", "choices": ["A","B"], "answer":0},
+    {"class": "Question.OpenResponseQuestion","Question": "Choose one of your answers, and explain how you determined which orchard would be cheaper."}
+  ]},
+  "q31": {"class": "Question.OpenEndedQuestion","Question": "What does $n$ represent in each statement?","context": "To help her compare the cost of her two options, the teacher first writes the equation $9(n+3)=10(n+1)$, and then she writes the inequality $9(n+3)<10(n+1)$."},
+  "q31": {"class": "Question.OpenEndedQuestion","Question": "In this situation, what does the equation $9(n+3)=10(n+1)$ mean?","context": "To help her compare the cost of her two options, the teacher first writes the equation $9(n+3)=10(n+1)$, and then she writes the inequality $9(n+3)<10(n+1)$."},
+  "q32": {"class": "Question.OpenEndedQuestion","Question": "What does the solution to the inequality 9(n+3)<10(n+1) tell us?","context": "To help her compare the cost of her two options, the teacher first writes the equation $9(n+3)=10(n+1)$, and then she writes the inequality $9(n+3)<10(n+1)$."},
+  "q33": {"class": "Question.DrawingQuestion","Question": "Graph the solution to the inequality $9(n+3)<10(n+1)$ on the number line.","background_image_url": "/static/images/NumberLineNoLabels.png"},
 }
