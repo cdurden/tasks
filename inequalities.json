@@ -38,6 +38,6 @@
   "q32": {"class": "Question.OpenEndedQuestion","Question": "In this situation, what does the equation $9(n+3)=10(n+1)$ mean?","context": "To help her compare the cost of her two options, the teacher first writes the equation $9(n+3)=10(n+1)$, and then she writes the inequality $9(n+3)<10(n+1)$."},
   "q33": {"class": "Question.OpenEndedQuestion","Question": "What does the solution to the inequality 9(n+3)<10(n+1) tell us?","context": "To help her compare the cost of her two options, the teacher first writes the equation $9(n+3)=10(n+1)$, and then she writes the inequality $9(n+3)<10(n+1)$."},
   "q34": {"class": "Question.DrawingQuestion","Question": "Graph the solution to the inequality $9(n+3)<10(n+1)$ on the number line.","background_image_url": "/static/images/NumberLineNoLabels.png"},
-  "q35": {"class": "Question.OpenEndedQuestion","Question": "Write some solutions to the inequality $y \le 9.2$."},
+  "q35": {"class": "Question.OpenEndedQuestion","Question": "Write some solutions to the inequality $y \\le 9.2$."},
   "q36": {"class": "Question.OpenEndedQuestion","Question": "Write one solution to the inequality $7(3-x)>14$."}
 }
